@@ -1,0 +1,12 @@
+[package]
+name = "asci_game"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+crossterm = "0.24.0"
+# ncurses = "5.101.0"
+# ncurses-rs = "0.0.3"      # a rustacean version of the ncurses api
+random = "0.12.2"
